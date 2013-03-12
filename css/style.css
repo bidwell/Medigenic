@@ -18,9 +18,17 @@
 section {
 	margin-top: 20px;
 	}	
-
+.clearleft {
+	clear: left;
 	
+	}
+.pdescript {
+	padding: 10px 10px 10px 320px;
 	
+	}	
+.pimage {
+	padding: 5px;
+	}	
 @media (max-width: 768px) {	
 	 .tagline {
 	  	margin-top: 10px;

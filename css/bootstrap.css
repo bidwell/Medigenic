@@ -5002,11 +5002,11 @@ a.thumbnail:focus {
   margin-bottom: 20px;
 }
 .accordion-group {
-  margin-bottom: 2px;
-  border: 1px solid #e5e5e5;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
+  margin-bottom: 10px;
+  border: 2px solid #0033ab;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
 }
 .accordion-heading {
   border-bottom: 0;
@@ -5014,6 +5014,8 @@ a.thumbnail:focus {
 .accordion-heading .accordion-toggle {
   display: block;
   padding: 8px 15px;
+  color: white;
+  background-color: #0033ab;
 }
 .accordion-toggle {
   cursor: pointer;
