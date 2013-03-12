@@ -12,40 +12,47 @@
 	
 .tagline {
 	margin-top: 40px;
-	
+
 	}
 	
-	
-	
-	
+section {
+	margin-top: 20px;
+	}	
+
 	
 	
 @media (max-width: 768px) {	
 	 .tagline {
 	  	margin-top: 10px;
+		
 	  
 	  }
 	 .carousel {
 		margin-top: 20px;
-		}
-}
+		margin-bottom: 30px;
+		}	
+	
 
 
 @media (min-width: 768px) and (max-width: 979px) {
 	
-	.tagline {
-	  	margin-top: 25px;
-	  
-	  }
+}
 	.carousel {
 		margin-top: 20px;
+		margin-bottom: 30px;
 		}
+	
+	
 }
+
 @media (min-width: 1200px) {
 
 	.item {
 		margin-left: 85px;
 		
 		}
-
-}
+	.carousel-indicators {
+	  margin: 26% 48% 0 0;
+	
+		}
+		
