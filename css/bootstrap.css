@@ -631,30 +631,30 @@ h5 small,
 h6 small {
   font-weight: normal;
   line-height: 1;
-  color: #999999;
+  color: #0033ab;
 }
 h1,
 h2,
 h3 {
-  line-height: 40px;
+  line-height: 20px;
 }
 h1 {
-  font-size: 38.5px;
+  font-size: 17px;
 }
 h2 {
-  font-size: 31.5px;
-}
-h3 {
-  font-size: 24.5px;
-}
-h4 {
-  font-size: 17.5px;
-}
-h5 {
   font-size: 14px;
 }
-h6 {
+h3 {
   font-size: 11.9px;
+}
+h4 {
+  font-size: 9px;
+}
+h5 {
+  font-size: 7px;
+}
+h6 {
+  font-size: 5px;
 }
 h1 small {
   font-size: 24.5px;
@@ -5025,6 +5025,7 @@ a.thumbnail:focus {
 .carousel {
   position: relative;
   margin-bottom: 20px;
+  margin-top: 40px;
   line-height: 1;
 }
 .carousel-inner {
@@ -5447,6 +5448,7 @@ button.close {
   .carousel-caption {
     position: static;
   }
+ 
 }
 @media (min-width: 768px) and (max-width: 979px) {
   .row {

@@ -1,7 +1,6 @@
 #reg {
 	float:right;
-	padding-right: 20px;
-	margin-top: 10px;
+	margin: 10px 20px 0 0;
 	}
 #reg a {
 	color: white;
@@ -10,3 +9,43 @@
 	text-decoration: none;
 	color: #d94f00;
 	}	
+	
+.tagline {
+	margin-top: 40px;
+	
+	}
+	
+	
+	
+	
+	
+	
+@media (max-width: 768px) {	
+	 .tagline {
+	  	margin-top: 10px;
+	  
+	  }
+	 .carousel {
+		margin-top: 20px;
+		}
+}
+
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+	.tagline {
+	  	margin-top: 25px;
+	  
+	  }
+	.carousel {
+		margin-top: 20px;
+		}
+}
+@media (min-width: 1200px) {
+
+	.item {
+		margin-left: 85px;
+		
+		}
+
+}
