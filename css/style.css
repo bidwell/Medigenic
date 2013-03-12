@@ -23,11 +23,11 @@ section {
 	
 	}
 .pdescript {
-	padding: 10px 10px 10px 320px;
+	padding: 10px 10px 10px 10px;
 	
 	}	
 .pimage {
-	padding: 5px;
+	padding: 5px 15px 5px 5px;
 	}	
 @media (max-width: 768px) {	
 	 .tagline {
@@ -40,7 +40,9 @@ section {
 		margin-bottom: 30px;
 		}	
 	
-
+.pdescript {
+	clear: left;
+}
 
 @media (min-width: 768px) and (max-width: 979px) {
 	
