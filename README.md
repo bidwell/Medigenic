@@ -1,4 +1,4 @@
 Medigenic
 =========
 
-Prototyping site for Medigenic website
+Prototyping and development for Medigenic website.
