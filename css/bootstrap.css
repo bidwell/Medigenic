@@ -5080,7 +5080,7 @@ a.thumbnail:focus {
 }
 .carousel-control {
   position: absolute;
-  top: 40%;
+  top: 60%;
   left: 15px;
   width: 40px;
   height: 40px;
@@ -5114,7 +5114,7 @@ a.thumbnail:focus {
   top: 0px;
   right: 0px;
   z-index: 5;
-  margin: 30% 48% 0 0;
+  margin: 32% 48% 0 0;
   list-style: none;
 }
 .carousel-indicators li {
