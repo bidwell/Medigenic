@@ -1,0 +1,12 @@
+#reg {
+	float:right;
+	padding-right: 20px;
+	margin-top: 10px;
+	}
+#reg a {
+	color: white;
+	}	
+#reg a:hover {
+	text-decoration: none;
+	color: #d94f00;
+	}	
